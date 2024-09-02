@@ -1,0 +1,2 @@
+ZymyoFinal zip has both frontend and backend files. 
+By unzip both  the folder can be run with given commands inside run.txt
